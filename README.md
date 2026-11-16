@@ -37,8 +37,8 @@
 
 각 파일은 원본 모델의 라이선스를 따릅니다. 원본 라이선스 전문은 `licenses/` 폴더에 있습니다.
 
-- `licenses/kanana-1.5-2.1b-instruct-Apache-2.0.txt` — Kanana 1.5 2.1B instruct, Copyright Kakao Corp., Apache License 2.0
-- `licenses/bge-m3-MIT.txt` — BGE-M3, BAAI, MIT License
-- `licenses/pyannote-segmentation-3.0-MIT.txt` — pyannote segmentation-3.0, pyannote, MIT License
+- `licenses/kanana-1.5-2.1b-instruct-Apache-2.0.txt` — Kanana 1.5 2.1B instruct (Kakao Corp.), Apache License 2.0. 원본 저장소의 `LICENSE` (revision `7df4bc35`)
+- `licenses/bge-m3-MIT.txt` — BGE-M3 (BAAI), MIT License. 모델 카드가 MIT로 표기하며 모델 저장소에 LICENSE 파일이 없어, BAAI의 공식 프로젝트 저장소 [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)의 `LICENSE`를 넣었습니다
+- `licenses/pyannote-segmentation-3.0-MIT.txt` — pyannote segmentation-3.0 (CNRS), MIT License. sherpa-onnx 압축 파일에 함께 들어 있는 `LICENSE`
 
 이 저장소의 파일은 원본을 변환(GGUF 형식 변환·양자화)하거나 형식을 바꾼 것이며, 원본 저작자가 만들거나 보증한 파일이 아닙니다.
